@@ -10,4 +10,6 @@ Quantitative Data Analysis (INFOMQUDA), Utrecht University
 
 ## Module 2: Structure Discovery
 
+* P2.1: Dimensionality Reduction ([google colab](https://colab.research.google.com/drive/10Z2jYwIylALXJ4dRVTmL238YAxoiuwiO?usp=sharing), [notebook](assignments/module2/p2.1.ipynb))
+
 ## Module 3: Truthworthy Inference
