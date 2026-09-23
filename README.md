@@ -11,6 +11,6 @@ Quantitative Data Analysis (INFOMQUDA), Utrecht University
 ## Module 2: Structure Discovery
 
 * P2.1: Dimensionality Reduction ([google colab](https://colab.research.google.com/drive/10Z2jYwIylALXJ4dRVTmL238YAxoiuwiO?usp=sharing), [notebook](assignments/module2/p2.1.ipynb))
-* G2.1: NPEC - Guest Practicum - Tomato Dataset ([google colab](https://colab.research.google.com/github/SinitcynLab/INFOMQUDA/blob/main/assignments/module2/g2.1.npec.ipynb), [notebook](assignments/module2/g2.1.npec.ipynb))
+* GP2.1: NPEC - Guest Practicum - Tomato Dataset ([google colab](https://colab.research.google.com/github/SinitcynLab/INFOMQUDA/blob/main/assignments/module2/g2.1.npec.ipynb), [notebook](assignments/module2/g2.1.npec.ipynb))
 
 ## Module 3: Truthworthy Inference
