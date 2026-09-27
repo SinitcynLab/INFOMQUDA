@@ -12,5 +12,6 @@ Quantitative Data Analysis (INFOMQUDA), Utrecht University
 
 * P2.1: Dimensionality Reduction ([google colab](https://colab.research.google.com/drive/10Z2jYwIylALXJ4dRVTmL238YAxoiuwiO?usp=sharing), [notebook](assignments/module2/p2.1.ipynb))
 * GP2.1: NPEC - Guest Practicum - Tomato Dataset ([google colab](https://colab.research.google.com/github/SinitcynLab/INFOMQUDA/blob/main/assignments/module2/gp2.1.npec.ipynb), [notebook](assignments/module2/gp2.1.npec.ipynb))
+* P2.2: VAE and Clustering ([google colab](https://colab.research.google.com/drive/1eZWfPGc9_NwoqdXvcK6WAbLdz75ExbW8?usp=sharing), [notebook](assignments/module2/p2.2.ipynb))
 
 ## Module 3: Truthworthy Inference
