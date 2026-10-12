@@ -15,3 +15,5 @@ Quantitative Data Analysis (INFOMQUDA), Utrecht University
 * P2.2: VAE and Clustering ([google colab](https://colab.research.google.com/drive/1eZWfPGc9_NwoqdXvcK6WAbLdz75ExbW8?usp=sharing), [notebook](assignments/module2/p2.2.ipynb))
 
 ## Module 3: Truthworthy Inference
+
+* P3.1: Markov Chains and RNNs ([google colab](https://colab.research.google.com/drive/1rMxWiMqYecmhRw526vQOKR3q9bLPl44s?usp=sharing), [notebook](assignments/module3/p3.1.ipynb))
